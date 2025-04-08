@@ -267,6 +267,4 @@ Deletes a book by its ID.
 - **API Documentation:** Integrate Swagger/OpenAPI for interactive API documentation.
 - **Advanced Rate Limiting:** Use a distributed store like Redis to share rate limiting counters across multiple instances.
 
-## License
 
-This project is for demonstration purposes. Further enhancements are recommended before using it in a production environment.
